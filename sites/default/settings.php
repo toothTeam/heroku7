@@ -248,10 +248,10 @@ $databases = array (
   'default' => 
   array (
     'default' => 
-    1array (
+    array (
       'database' => 'newergoaway',
-      'username' => 'b823e49f5ff2c9',
-      'password' => 'f4b9b69c',
+      'username' => 'b2db94d0beff1f',
+      'password' => '08fecc2c',
       'host' => 'us-cdbr-azure-central-a.cloudapp.net',
       'port' => '3306',
       'driver' => 'mysql',
