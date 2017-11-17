@@ -249,7 +249,7 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'newergoaway',
+      'database' => 'nevergoaway',
       'username' => 'b2db94d0beff1f',
       'password' => '08fecc2c',
       'host' => 'us-cdbr-azure-central-a.cloudapp.net',
